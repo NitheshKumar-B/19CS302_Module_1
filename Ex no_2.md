@@ -2,7 +2,7 @@
 
 ## DATE:
 ## AIM:
-To write a program to check whether the attendance is PRESENT using simple if statement.
+To write a program to check whether number is less than 100 or not. using  if-else
 
 ## Algorithm
 
